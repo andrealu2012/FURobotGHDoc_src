@@ -1,0 +1,76 @@
+﻿site_name: FURobot GH Document
+site_url: "https://andrealu2012.github.io/FURobotDoc/"
+
+theme:
+  name: material
+  language: zh
+  logo: img/LogoWhite.png
+  palette:
+    # Palette toggle for dark mode
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+    # Palette toggle for light mode
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+
+  # features:
+    # - navigation.tracking
+    # - navigation.tabs
+    # - navigation.sections
+    # - navigation.expand
+    # - navigation.top
+    # - navigation.indexes
+    # - navigation.prune
+    # - toc.follow
+# nav:
+#   - Home: index.md
+#   - Tutorial: 
+#     - Installation: Tutorial/installation.md
+#     - Getting started: Tutorial/getting_started.md
+#   - API:  API.md
+#   - About: about.md
+
+copyright: Copyright:Fabunion
+
+# markdown_extensions:
+#   - admonition
+#   - abbr
+#   - attr_list
+#   - md_in_html
+#   - tables
+#   - footnotes
+
+extra_css:
+  - stylesheets/nav.css
+  - stylesheets/theme.css
+
+plugins:
+  - search:
+      lang:
+        - en
+  #       - zh
+  - awesome-pages
+  # - table-reader
+  - i18n:
+      docs_structure: folder
+      fallback_to_default: true
+      languages:
+        - locale: en
+          default: true
+          name: English
+          build: true
+        - locale: zh
+          name: 简体中文          
+          build: true
+      reconfigure_material: true
+      reconfigure_search: true
+
+  - minify:
+      minify_html: true
