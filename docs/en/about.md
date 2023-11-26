@@ -1,2 +1,2 @@
 # ABOUT
-FURobot Is a robot simulation and tool software，It supports various brands of robots and custom robots，It comes from FabUnion.
+FURobot is a robot simulation and tool software，It supports multiple brands of bots and custom bots，It comes from FabUnion.

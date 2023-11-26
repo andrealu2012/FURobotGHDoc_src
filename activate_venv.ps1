@@ -14,3 +14,4 @@ $venvPath="D:\Code\FURobotDocument\venvDoc"
 
 # 切换到项目目录
 Set-Location -Path $projectPath
+mkdocs serve

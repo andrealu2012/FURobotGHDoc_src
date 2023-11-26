@@ -65,11 +65,32 @@ if ($response -eq "n") {
     Write-Host "Translating ..."
     python D:\Code\Python\TranslateDoc\main.py
     # 在这里添加你要执行的指令
+}
+
+
+
+# 运行 mkdocs build 命令
+Write-Host "Begin to build:"
+
+# 提示用户输入，等待用户输入 "y" 或 "n"
+$response = Read-Host "Do build? (y/n)"
+
+if ($response -eq "n") {
+    Write-Host "No build"
+
+} else {
+
+    Write-Host "Building ..."
+    & mkdocs build
+    # 在这里添加你要执行的指令
 } 
 
-Write-Host "Begin to build:"
-# 运行 mkdocs build 命令
-& mkdocs build
+
+
+
+
+
+
 
 
 # 设置要删除文件的文件夹路径

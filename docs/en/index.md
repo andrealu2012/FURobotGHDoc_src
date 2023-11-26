@@ -2,20 +2,20 @@
 <!-- Make **Robot** **F**or **U** -->
 ----
 
-## CHARACTERISTIC
-* simulation & Offline file generation
-* support KUKA, ABB, UR robot
-* Support custom robot and other hardware
-* Support multiple construction processes
-* KUKA & ABB Communication and control
+## CHARACTERISTICS
+* emulate & Offline File Generation
+* Support KUKA, ABB, UR and other brands of robots
+* Support for custom bots and other hardware
+* Supports multiple construction processes
+* KUKA & ABB Communication & Control
 
 ## TUTORIAL
 1. [Install](Tutorial/installation.md)
-2. [getting Started](Tutorial/getting_started.md)
-3. [Add the default attitude]
-4. [Custom tool]
-5. [Customized robotic arm]
-6. [Use an external axis]
-7. [Custom outer shaft]
+2. [Getting Started](Tutorial/getting_started.md)
+3. [Add default pose]
+4. [Customizer]
+5. [Custom Robot](Tutorial/customrobot1.md)
+6. [Use external axis]
+7. [Custom External Axis]
 
 ## API LIST
