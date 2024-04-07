@@ -4,4 +4,4 @@
 </div>
 
 
-This tutorial uses an example of the convertion between Euler angles and Rigidbody transforms，demonstrates how to call FURobot of API Function
+This tutorial uses an example of the transition between Euler angles and Rigidbody transforms，demonstrates how to callFURobotofAPIFunction
