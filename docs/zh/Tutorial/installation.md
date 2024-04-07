@@ -1,5 +1,5 @@
 # 安装
 
-[Bilibili 教程](https://www.bilibili.com/video/BV1Cy4y157UT)
+<iframe src="//player.bilibili.com/player.html?aid=804559118&bvid=BV1Cy4y157UT&cid=1358511638&p=1&high_quality=1&danmaku=0" allowfullscreen="allowfullscreen" width="100%" height="500" scrolling="no" frameborder="0" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts"></iframe>
 
-演示了如何安装FURobot
+演示了如何安装与注册 FURobot
