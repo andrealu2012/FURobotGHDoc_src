@@ -22,3 +22,4 @@
 9. [Custom External Axis](Tutorial/customEA.md)
 10. [Motion planning](Tutorial/motionplanning.md)
 11. [UseAPI](Tutorial/API.md)
+12. [Obstacle Avoidance Path Generation]（Tutorial/collisionfree.md）

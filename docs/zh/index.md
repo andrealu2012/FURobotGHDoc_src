@@ -23,3 +23,4 @@
 9. [自定义外部轴](Tutorial/customEA.md)
 10. [运动规划](Tutorial/motionplanning.md)
 11. [使用API](Tutorial/API.md)
+12. [避障路径生成]（Tutorial/collisionfree.md）
