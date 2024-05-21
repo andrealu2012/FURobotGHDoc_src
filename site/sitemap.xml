@@ -22,13 +22,6 @@
         <xhtml:link rel="alternate" hreflang="zh" href="https://fabunion.github.io/zh/Tutorial/API/"/>
     </url>
     <url>
-        <loc>https://fabunion.github.io/Tutorial/collisionfree/</loc>
-        <lastmod>2024-05-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="en" href="https://fabunion.github.io/Tutorial/collisionfree/"/>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://fabunion.github.io/zh/Tutorial/collisionfree/"/>
-    </url>
-    <url>
         <loc>https://fabunion.github.io/Tutorial/customEA/</loc>
         <lastmod>2024-05-21</lastmod>
         <changefreq>daily</changefreq>
@@ -111,13 +104,6 @@
         <changefreq>daily</changefreq>
         <xhtml:link rel="alternate" hreflang="zh" href="https://fabunion.github.io/zh/Tutorial/API/"/>
         <xhtml:link rel="alternate" hreflang="en" href="https://fabunion.github.io/Tutorial/API/"/>
-    </url>
-    <url>
-        <loc>https://fabunion.github.io/zh/Tutorial/collisionfree/</loc>
-        <lastmod>2024-05-21</lastmod>
-        <changefreq>daily</changefreq>
-        <xhtml:link rel="alternate" hreflang="zh" href="https://fabunion.github.io/zh/Tutorial/collisionfree/"/>
-        <xhtml:link rel="alternate" hreflang="en" href="https://fabunion.github.io/Tutorial/collisionfree/"/>
     </url>
     <url>
         <loc>https://fabunion.github.io/zh/Tutorial/customEA/</loc>
